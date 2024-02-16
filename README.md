@@ -74,7 +74,7 @@ We're all ears for your expertise! Help us make Offliner better by submitting pu
 
 ## 📜 Licensed for Sharing:
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## 🎈 Start Your Offliner Adventure Today!
 
